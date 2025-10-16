@@ -34,26 +34,66 @@ This repository documents my hands-on learning experience during my **SOC Intern
 - Successfully observed Sysmon and Wazuh alerts for simulated threats.
 
 
-- 📸 Screenshots from My SOC Internship Journey
-🧠 1. Wazuh Manager Installation
+## 📸 Screenshots from My SOC Internship Journey
 
-💻 2. Ubuntu Server Setup
+### 🧠 1. Wazuh Manager Installation  
+During this phase, I deployed the **Wazuh Manager** and set up the **Dashboard** for centralized log monitoring and analysis.  
+![Wazuh Manager Installation](./wazuh%20dashboard.jpeg)
 
-🧩 3. Sysmon Installation and Configuration
+---
 
-🔗 4. Integrating Sysmon with Wazuh Dashboard
+### 💻 2. Ubuntu Server Setup  
+Configured and secured my **Ubuntu server environment**, ensuring it could host Wazuh components efficiently.  
+![Ubuntu Server Setup](./ubuntu%20terminal.jpeg)
 
-🪟 5. Windows Agent Deployment
+---
 
-🧮 6. Windows Agent Event Log Monitoring (Event 7045)
+### ⚙️ 3. Sysmon Installation and Configuration  
+Installed **Sysmon (System Monitor)** to collect advanced system telemetry such as process creation, network connections, and file modifications.  
+![Sysmon Installation](./sysmon%20conf.jpeg)
 
-🔍 7. Sysmon on Windows Showing Process Monitoring
+---
 
-🧰 8. Editing Sysmon Configuration on OSSEC
+### 🔗 4. Integrating Sysmon with Wazuh Dashboard  
+Integrated Sysmon logs into Wazuh to visualize and correlate Windows endpoint activities in real-time.  
+![Sysmon + Wazuh Integration](./sysmonmon%20wazuh%20dashboard.jpeg)
 
-🧬 9. APT Simulator Testing
+---
 
-📈 10. Wazuh Alert from APT Simulation
+### 🪟 5. Windows Agent Deployment  
+Deployed the **Wazuh Agent** on Windows Server and connected it to the Manager to begin log collection and monitoring.  
+![Windows Agent Deployment](./my%20window%20agent.jpeg)
+
+---
+
+### 📄 6. Event Log Monitoring (Event 7045)  
+Monitored **Event ID 7045** — a key Windows event used to detect the creation of new or suspicious services.  
+![Event 7045](./event7045.jpeg)
+
+---
+
+### 🕵️ 7. Sysmon Process Monitoring on Windows  
+Observed Sysmon capturing DNS queries, process executions, and network connections for deeper threat visibility.  
+![Sysmon on Windows](./sysmon%20on%20window.jpeg)
+
+---
+
+### 🧩 8. Editing Sysmon Configuration on OSSEC  
+Modified and fine-tuned **Sysmon XML rules** via OSSEC configuration to improve detection precision.  
+![Editing Sysmon Config](./editing%20sysmon%20on%20ossec.jpeg)
+
+---
+
+### 🔥 9. APT Simulator Testing  
+Used **APTSimulator** to simulate advanced persistent threat behaviors and validate Wazuh’s detection capabilities.  
+![APT Simulator](./apt%20simulator.jpeg)
+
+---
+
+### 🚨 10. Wazuh Alert from APT Simulation  
+Observed **Wazuh alerts** triggered by simulated attacks, confirming successful Sysmon + Wazuh correlation.  
+![APT Event Logs](./apt%20simulator%20on%20event%20log.jpeg)
+
 
 
 
