@@ -34,6 +34,29 @@ This repository documents my hands-on learning experience during my **SOC Intern
 - Successfully observed Sysmon and Wazuh alerts for simulated threats.
 
 
+- 📸 Screenshots from My SOC Internship Journey
+🧠 1. Wazuh Manager Installation
+
+💻 2. Ubuntu Server Setup
+
+🧩 3. Sysmon Installation and Configuration
+
+🔗 4. Integrating Sysmon with Wazuh Dashboard
+
+🪟 5. Windows Agent Deployment
+
+🧮 6. Windows Agent Event Log Monitoring (Event 7045)
+
+🔍 7. Sysmon on Windows Showing Process Monitoring
+
+🧰 8. Editing Sysmon Configuration on OSSEC
+
+🧬 9. APT Simulator Testing
+
+📈 10. Wazuh Alert from APT Simulation
+
+
+
 ## 🧠 Key Learnings
 - Understood how SOCs detect and respond to cyber threats.  
 - Learned endpoint monitoring using **Wazuh** and **Sysmon**.  
