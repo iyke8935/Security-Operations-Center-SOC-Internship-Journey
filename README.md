@@ -33,22 +33,6 @@ This repository documents my hands-on learning experience during my **SOC Intern
 - Ran attack simulations to test Wazuh’s detection capabilities.
 - Successfully observed Sysmon and Wazuh alerts for simulated threats.
 
----
-
-## 📸 Screenshots
-## 📸 Screenshots
-
-### 🪟 Sysmon Configuration
-![Sysmon Configuration](https://github.com/your-username/Security-Operations-Center-SOC-Internship-Journey/blob/main/sysmon.png)
-
-### 🧠 Wazuh Dashboard Alerts
-![Wazuh Dashboard](https://github.com/your-username/Security-Operations-Center-SOC-Internship-Journey/blob/main/wazuh-dashboard.png)
-
-### 🧨 APTSimulator Test Results
-![APT Simulation](https://github.com/your-username/Security-Operations-Center-SOC-Internship-Journey/blob/main/apt-simulator.png)
-
-
----
 
 ## 🧠 Key Learnings
 - Understood how SOCs detect and respond to cyber threats.  
