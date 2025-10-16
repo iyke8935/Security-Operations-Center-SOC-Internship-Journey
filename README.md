@@ -120,3 +120,15 @@ Licensed under the [MIT License](LICENSE).
 
 **#CyberSecurity #SOC #Wazuh #Sysmon #APTSimulator #ThreatDetection #BlueTeam #HandsOnLearning**
 
+
+
+---
+---
+
+### 👨‍💻 Author
+**Odoh,Samuel Ikechukwu**  
+Security Operations Center (SOC) Intern  
+📧 isioroto@gmail.com  
+🔗 LinkedIn Profile](www.linkedin.com/in/samuel-odoh-a02b89314)  
+
+
